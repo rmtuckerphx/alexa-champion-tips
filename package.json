@@ -1,0 +1,16 @@
+{
+  "name": "alexa-champion-tips",
+  "version": "1.0.0",
+  "description": "Tips from Alexa Champion, Mark Tucker",
+  "scripts": {
+  },
+  "keywords": [
+    "alexa",
+    "champion",
+    "tips",
+    "development",
+    "design"
+  ],
+  "author": "Mark Tucker",
+  "license": "ISC"
+}
