@@ -12,3 +12,6 @@ Copyright 2018 by Mark Tucker. All rights reserved.
 
 ## Tip 3
 ![Even if you are not ready to make your custom skill fully multimodal, add a branded launch screen as an improvement over the default that has only an icon and an exit hint.](tips/tip3.png "Tip 3")
+
+## Tip 4
+![When designing skill screens using Alexa Presentation Language, start by thinking of the content on the Echo Show and then consider how to summarize it for the Echo Spot and what to add for larger TV screens.](tips/tip4.png "Tip 4")
