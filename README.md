@@ -15,3 +15,6 @@ Copyright 2018 by Mark Tucker. All rights reserved.
 
 ## Tip 4 - Screen Layout
 ![When designing skill screens using Alexa Presentation Language, start by thinking of the content on the Echo Show and then consider how to summarize it for the Echo Spot and what to add for larger TV screens.](tips/tip4.png "Tip 4")
+
+## Tip 5 - Team Project Structure
+![Structure your Alexa project so multiple team members can work on different features at the same time. Start with grouping all handlers for a given feature in a file or go with one file per handler.](tips/tip5.png "Tip 5")
