@@ -18,3 +18,8 @@ Copyright 2018 by Mark Tucker. All rights reserved.
 
 ## Tip 5 - Team Project Structure
 ![Structure your Alexa project so multiple team members can work on different features at the same time. Start with grouping all handlers for a given feature in a file or go with one file per handler.](tips/tip5.png "Tip 5")
+
+## Tip 6 - Vary Hint & Prompt
+![In conversation mode, a response includes speech output & reprompt. The speech output can be further split into message, hint, & prompt. Track usage statistics and remove the hint and modify the prompt over time.](tips/tip6.png "Tip 6")
+
+![Sample of output text split into message, hint, and prompt.](assets/tip6-sample.png "Tip 6 - Sample")
