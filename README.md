@@ -23,3 +23,6 @@ Copyright 2018 by Mark Tucker. All rights reserved.
 ![In conversation mode, a response includes speech output & reprompt. The speech output can be further split into message, hint, & prompt. Track usage statistics and remove the hint and modify the prompt over time.](tips/tip6.png "Tip 6")
 
 ![Sample of output text split into message, hint, and prompt.](assets/tip6-sample.png "Tip 6 - Sample")
+
+## Tip 7 - Externalize Settings
+![Externalize settings values such as API keys in Lambda environment variables or AWS Secrets Manager. Use the dotenv module to help with local development.](tips/tip7.png "Tip 7")
