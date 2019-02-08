@@ -26,3 +26,13 @@ Copyright 2018 by Mark Tucker. All rights reserved.
 
 ## Tip 7 - Externalize Settings
 ![Externalize settings values such as API keys in Lambda environment variables or AWS Secrets Manager. Use the dotenv module to help with local development.](tips/tip7.png "Tip 7")
+
+## Tip 8 - Speak Up
+![Whether it is support of a feature request, let your voice be heard.](tips/tip8.png "Tip 8")
+
+Support
+- [developer.amazon.com/support/contact-us](https://developer.amazon.com/support/contact-us)
+- [forums.developer.amazon.com](https://forums.developer.amazon.com)
+
+Feature Request
+- [alexa.uservoice.com](https://alexa.uservoice.com)
